@@ -1,6 +1,6 @@
 {
   "name": "react-native-test-lib-mac",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test deploying to npm",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
