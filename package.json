@@ -1,5 +1,5 @@
 {
-  "name": "react-native-test-lib",
+  "name": "react-native-test-lib-mac",
   "version": "0.1.0",
   "description": "Test deploying to npm",
   "main": "lib/commonjs/index",

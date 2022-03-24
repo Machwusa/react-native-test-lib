@@ -15,7 +15,7 @@ import { multiply } from "react-native-test-lib";
 
 // ...
 
-const result = await multiply(3, 7);
+const result = await multiply(3, 7, 2);
 ```
 
 ## Contributing
